@@ -1,7 +1,7 @@
 name: testingthegrid
 favicon: null
-layout_spectrum: 0.9202206349000335
-typography_spectrum: 0.2740023594815284
+layout_spectrum: 1
+typography_spectrum: 0.13142
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#253237'
   brandStrength: 0.09649804187938571
   lightness: 0.3584584218915552
-  saturation: 0.8780252204742283
+  saturation: 0.5625
   rhythmicContrast: 0.1820656112395227
 purpose: []
