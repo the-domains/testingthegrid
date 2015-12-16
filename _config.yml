@@ -2,6 +2,7 @@ name: testingthegrid
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.13142
+title: Testing the Don
 cta:
   domain: null
   bucket: null
