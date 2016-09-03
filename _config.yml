@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Batman
+    id: d9fcf2bc-29ea-4ff7-b137-0847973f0a45
+    type: content
 favicon: null
 title: Ze zijn live hoor
 description: oh wat cool
